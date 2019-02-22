@@ -1,4 +1,5 @@
 //  OpenShift sample Node application
+//  Change of OpenShift POC
 var express = require('express'),
     app     = express(),
     morgan  = require('morgan');
